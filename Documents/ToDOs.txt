@@ -1,0 +1,11 @@
+ToDos:
+
+1. Vorhandene Daten (./dataset/audio) in ein Torch Dataset umwandeln
+1.1 Preprocessing Pipeline (Noise Reduction) + 5s Bilder erstellen
+1.2 Dataset + DataLoader definieren
+
+2. Conv Netzwerk definieren
+
+3. Conv Netzwerk trainieren
+
+

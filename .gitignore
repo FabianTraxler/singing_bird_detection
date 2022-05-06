@@ -1,3 +1,10 @@
 venv/
 .*
 __*/
+*.zip
+Fragen_Eva
+
+*.wav
+*.mp3
+data/
+IAMA\ Exercises/
